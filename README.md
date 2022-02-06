@@ -1,3 +1,3 @@
 # test-repos
- My first github project!
+ Restrarunt design!
 ![alt text](img/design.png)
